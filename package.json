@@ -1,0 +1,40 @@
+{
+  "name": "hexo-site",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "build": "hexo generate",
+    "clean": "hexo clean",
+    "deploy": "hexo deploy",
+    "server": "hexo server"
+  },
+  "hexo": {
+    "version": "6.1.0"
+  },
+  "dependencies": {
+    "@lint-md/core": "^0.2.1",
+    "aplayer": "^1.10.1",
+    "hexo": "^6.0.0",
+    "hexo-bilibili-bangumi": "^1.8.2",
+    "hexo-blog-encrypt": "^3.1.6",
+    "hexo-deployer-git": "^3.0.0",
+    "hexo-generator-archive": "^1.0.0",
+    "hexo-generator-category": "^1.0.0",
+    "hexo-generator-index": "^2.0.0",
+    "hexo-generator-tag": "^1.0.0",
+    "hexo-helper-live2d": "^3.1.1",
+    "hexo-math": "^4.0.0",
+    "hexo-renderer-ejs": "^2.0.0",
+    "hexo-renderer-marked": "^5.0.0",
+    "hexo-renderer-mathjax": "^0.6.0",
+    "hexo-renderer-pug": "^3.0.0",
+    "hexo-renderer-stylus": "^2.0.1",
+    "hexo-server": "^3.0.0",
+    "hexo-tag-aplayer": "^3.0.4",
+    "hexo-theme-landscape": "^0.0.3",
+    "hexo-wordcount": "^6.0.1",
+    "live2d-widget-model-wanko": "^1.0.5",
+    "markdown-it-katex": "^2.0.3",
+    "meting": "^2.0.1"
+  }
+}

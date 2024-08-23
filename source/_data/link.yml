@@ -1,0 +1,24 @@
+- class_name: 狐朋狗友
+  class_desc: 好吧这都是我要抱的大腿
+  link_list:
+    - name: 咕咕咕
+      link: https://cooooing.github.io
+      avatar: https://s1.ax1x.com/2022/03/13/bqyIpT.jpg
+      descr: 路漫漫其修远兮，吾将上下而求索。
+    - name: 顾のEvery Day
+      link: https://gufanstudy.github.io/
+      avatar: https://blog-img-1311712983.cos.ap-nanjing.myqcloud.com/avatar.png
+      descr: 冲和者，淡泊平和，谦冲守正
+
+
+- class_name: 这些都是大神
+  class_desc: 人和人的差距往往比人和猪还要大
+  link_list:
+    - name: Jerry
+      link: https://butterfly.js.org/
+      avatar: https://butterfly.js.org/img/avatar.png
+      descr: A Simple and Card UI Design theme for Hexo
+    - name: 贫困の蚊子
+      link: https://qwq.moe/
+      avatar: https://qwq.moe/img/icon-circle.e08ec1b4.png
+      descr: 幸福往往是摸得透彻，而堇业的心却常常隐藏
