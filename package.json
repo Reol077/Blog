@@ -9,7 +9,7 @@
     "server": "hexo server"
   },
   "hexo": {
-    "version": "6.1.0"
+    "version": "6.3.0"
   },
   "dependencies": {
     "@lint-md/core": "^0.2.1",
@@ -23,6 +23,7 @@
     "hexo-generator-index": "^2.0.0",
     "hexo-generator-tag": "^1.0.0",
     "hexo-helper-live2d": "^3.1.1",
+    "hexo-hide-posts": "^0.4.3",
     "hexo-math": "^4.0.0",
     "hexo-renderer-ejs": "^2.0.0",
     "hexo-renderer-marked": "^5.0.0",
