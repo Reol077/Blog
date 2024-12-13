@@ -14,7 +14,7 @@
   "dependencies": {
     "@lint-md/core": "^0.2.1",
     "aplayer": "^1.10.1",
-    "hexo": "^6.0.0",
+    "hexo": "^7.3.0",
     "hexo-bilibili-bangumi": "^1.8.2",
     "hexo-blog-encrypt": "^3.1.6",
     "hexo-deployer-git": "^3.0.0",
